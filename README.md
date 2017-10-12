@@ -29,6 +29,8 @@ git clone https://github.com/herzogmartin/CarND-Capstone.git
 cd CarND-Capstone
 git submodule init
 git submodule update
+
+git pull origin master
 ```
 
 3. Install python dependencies
