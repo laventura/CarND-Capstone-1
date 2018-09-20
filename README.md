@@ -7,6 +7,9 @@ The gif below shows our code deployed on Udacity's (actual) self driving car nic
 [![Carla](https://github.com/laventura/blog_fyi/blob/master/static/images/aa-sdc.gif)](https://github.com/laventura/blog_fyi/blob/master/static/images/aa-sdc.gif)
 
 *Update (Oct 2017)* I graduated the Self-Driving Car Nanodegree 🎉🍾. Here's a brief I wrote on my blog [atul.fyi](https://atul.fyi/post/2017/10/22/graduated-self-driving-car-nanodegree/)
+
+Here's the certificate 🍾🎉
+[![cert](https://github.com/laventura/blog_fyi/blob/master/static/images/udacity-sdcnd-atul.png)](https://github.com/laventura/blog_fyi/blob/master/static/images/udacity-sdcnd-atul.png)
  
 ### Team Members
 
