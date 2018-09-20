@@ -1,8 +1,12 @@
 Team: Millenium Vulkan
 ============
 
-This is the capstone project for Udacity's Self Driving Car Nanodegree. This code is aimed to run in an actual physical self-drive vehicle.
-It is the final project of the nanodegree and solved in team work.
+🤖🚙 This is the capstone project for Udacity's Self Driving Car Nanodegree. 
+
+The gif below shows our code deployed on Udacity's (actual) self driving car nicknamed _Carla_. Carla was tested in a small parking lot, and was supervised by a trained engineer from Udacity. I sat shotgun and filmed the sequence. 👍The car drives autonomously and properly stops at a (fake) traffic light when it turns red. 
+[![Carla](https://github.com/laventura/blog_fyi/blob/master/static/images/aa-sdc.gif)](https://github.com/laventura/blog_fyi/blob/master/static/images/aa-sdc.gif)
+
+*Update (Oct 2017)* I graduated the Self-Driving Car Nanodegree 🎉🍾. Here's a brief I wrote on my blog [atul.fyi](https://atul.fyi/post/2017/10/22/graduated-self-driving-car-nanodegree/)
  
 ### Team Members
 
@@ -12,6 +16,7 @@ This repository is maintained by the following:
 - Yuda Liu: liu_yuda@163.com 
 - Atul Acharya: Atul.acharya@gmail.com
 - Yoni Azuelos: yonazuel@hotmail.com 
+
 
 The following video shows the code in action:
 
