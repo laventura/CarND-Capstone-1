@@ -11,11 +11,11 @@ The gif below shows our code deployed on Udacity's (actual) self driving car nic
 ### Team Members
 
 This repository is maintained by the following:
-- George Terzakis: terzakig@hotmail.com 
-- Martin Herzog: martin.mh.herzog@gmail.com
-- Yuda Liu: liu_yuda@163.com 
-- Atul Acharya: Atul.acharya@gmail.com
-- Yoni Azuelos: yonazuel@hotmail.com 
+- George Terzakis 
+- Martin Herzog
+- Yuda Liu 
+- Atul Acharya
+- Yoni Azuelos
 
 
 The following video shows the code in action:
